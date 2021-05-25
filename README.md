@@ -53,4 +53,4 @@ Usage of the application is straightforward. Login as manager or employee to req
 
 ## License
 
-This project uses the following license: [GPL]([<link>](https://en.wikipedia.org/wiki/GNU_General_Public_License)).
+This project uses the following license: [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)).
