@@ -1,0 +1,1 @@
+update reimbursement r set status_id = (select id from reimbursement_status where status = 'approved' ), resolved = now(), resolver_id = ? where r.id  = ?;
