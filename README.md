@@ -15,6 +15,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
   
 
 To-do list:
+* Add user feedback on successful operations (log-in, add request, approve/deny request)
 * Receipt image upload and storage on AWS S3 bucket
 * Table pagination
 * Manager delete/archive reimbursements
