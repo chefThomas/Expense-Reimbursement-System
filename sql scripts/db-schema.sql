@@ -1,7 +1,4 @@
 create database ers;
-create type expense_type as enum ('lodging', 'travel', 'food', 'other');
-create type user_type as enum ('employee', 'manager');
-create type status as enum ('pending', 'approved', 'denied');
 
 set timezone = 'America/Los_Angeles';
 
