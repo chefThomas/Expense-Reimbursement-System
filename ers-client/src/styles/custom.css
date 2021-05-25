@@ -1,0 +1,55 @@
+html,
+body {
+  background-color: rgba(249, 250, 251);
+}
+
+.absolute-center-custom {
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+}
+.flex-baseline-custom {
+  display: flex;
+  align-items: baseline;
+}
+
+.menu-card {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.menu-card:hover {
+  cursor: pointer;
+}
+
+.max-w-16-custom {
+  max-width: 16rem;
+}
+
+.custom-w-12 {
+  width: 12rem;
+}
+.bg-gray {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.action-text {
+  color: rgb(84, 105, 212);
+}
+
+.form-btn {
+  background-color: rgb(84, 105, 212);
+}
+
+.form-btn:hover {
+  background-color: rgba(84, 105, 212, 0.8);
+}
+
+.fixed-width-md {
+  min-width: 10rem;
+}
+
+.title-shadow {
+  text-shadow: 2px 2px 4px rgb(84, 105, 212);
+}
